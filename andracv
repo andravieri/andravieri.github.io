@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+</head>
+<body>
+    <h1>My Profile</h1>
+    <img src="foto2.png" alt="foto profile">
+    <p><b>Andra Vieri Goeslisainnah</b></p>
+    <p>I'm A <em>College</em> Of <a href="https://www.polsri.ac.id/"> Politeknik Negeri Sriwijaya</a></p>
+    <p><a href="https://instagram.com/andravieri?igshid=ZDdkNTZiNTM="> My Instagram Profile</a></p>
+    <hr>
+
+<a href="hobby.html">hobby</a>
+
+<p><a href="activities.html">activities</a></p>
+    <p>Organisasi</p>
+    <ol>
+        <li>Himpunan Mahasiswa Jurusan Manajemen Informatika</li>
+        <li>Himpunan Mahasiswa Prabumulih</li>
+        <li>................................................</li>
+        <li>................................................</li>
+    </ol>
+
+    <h3>School Experience</h3>
+    <table border="1">
+        <tr>
+            <th>
+                Year
+            </th>
+            <th>
+                School
+            </th>
+        </tr>
+
+        <tr>
+            <td>
+                2021-Sekarang
+            </td>
+            <td>
+                Politeknik Negeri Sriwijaya
+            </td>
+        </tr>
+        <tr>
+            <td>
+                2018-2021
+            </td>
+            <td>
+                SMA Nergeri 3 Prabumulih
+            </td>
+        </tr>
+        <tr>
+            <td>
+                2015-2018
+            </td>
+            <td>
+                SMP Negeri 2 Prabumulih
+            </td>
+        </tr>
+        <tr>
+            <td>
+                2009-2015
+            </td>
+            <td>
+                SD Negeri 15 Prabumulih
+            </td>
+        </tr>
+        <tr>
+            <td>
+                2006-2009
+            </td>
+            <td>
+                TK Aisyiyah 2 Bustanul Athfal
+            </td>
+        </tr>
+    </table>
+
+    <h3>My Skill</h3>
+    <table>
+        <th>
+            Skill
+        </th>
+        <th>
+            Rating
+        </th>
+        <tr>
+            <td>
+                Microsoft Office
+            </td>
+            <td>
+                &#11088; &#11088; &#11088; &#11088;
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Coding
+            </td>
+            <td>
+                &#11088; &#11088; &#11088;
+            </td>
+        </tr>    
+        <tr>
+            <td>
+                English
+            </td>
+            <td>
+                &#11088; &#11088; &#11088; &#11088;
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Public Speaking
+            </td>
+            <td>
+                &#11088; &#11088; &#11088; &#11088;
+            </td>
+        </tr>    
+        <tr>
+            <td>
+                photoghrapy
+            </td>
+            <td>
+                &#11088; &#11088; &#11088; &#11088;
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Music
+            </td>
+            <td>
+                &#11088; &#11088; &#11088; &#11088;
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Lobbying
+            </td>
+            <td>
+                &#11088; &#11088; &#11088; &#11088; &#11088;
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Editing
+            </td>
+            <td>
+                &#11088;&#11088;&#11088;
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
